@@ -7,3 +7,5 @@ Si alguno de los proyectos aquí listados no tiene proyecto en github ¡Necesita
 # Proyectos Actuales
 
 Ver sección de Proyectos para Panel de Proyectos Activos.
+- **¿Tienes una idea?**: No dudes en levantar un issue con su descripción
+- **¿Quieres colaborar con alguien?**: La mejor forma es hablando con código, mándales un PR!
